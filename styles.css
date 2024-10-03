@@ -31,3 +31,15 @@
     margin: 0px;
     margin-top: 10px;
 }
+.button:active{
+    margin: 0px;
+    color: #ffffff;
+    background-color: rgb(14, 14, 175);
+    border: none;
+    border-radius: 6%;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
